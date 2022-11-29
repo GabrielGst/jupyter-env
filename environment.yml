@@ -5,3 +5,9 @@ dependencies:
   - numpy
   - matplotlib
   - plotly
+  - panda
+  - openCV
+  - rayoptics
+  - opticspy
+  - simpy
+  - tensorflow
